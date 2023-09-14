@@ -63,8 +63,6 @@ public class JButtonDemo extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 
-
-
     public static void main(String[] args) {
         new JButtonDemo();
     }

@@ -25,7 +25,7 @@ public class CarDesignDemoApp extends Canvas {
         g.setColor(Color.white);
         g.drawString("Front Wheel", 65, 250);
         g.drawString("Rear Wheel", 270, 250);
-        g.drawString("Vedas Van", 185, 160);
+        g.drawString("Vedas College Van", 185, 160);
     }
     public static void main(String[] args) {
         JFrame frame = new JFrame("Car Design");
